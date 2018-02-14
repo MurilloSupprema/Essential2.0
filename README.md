@@ -1,4 +1,4 @@
-# essential20
+# Essential2.0
 Repositório do Essential 2.0
 Ferramentas do ambiente de desenvolvimento
 
